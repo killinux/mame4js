@@ -113,3 +113,6 @@ is required to use the "MAME" name, logo, or wordmark.
     more details.
 
 Please see COPYING for more details.
+add by hao:
+
+emmake make SUBTARGET=psikyo  SOURCES=src/mame/drivers/psikyo.cpp
